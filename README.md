@@ -1,6 +1,8 @@
 # Electronic-DJ-Soundboard
 The Electronic DJ Soundboard I designed in Eagle while serving as hardware lead on a 4-person team. I picked out the chips, designed the circuit, performed layout, soldered all components and tested and verified the board with a power supply and digital multimeter. 
 
+I also coordinated with the embedded software lead on GPIO pin assignments, I/O functionality, communication protocol usage, and peripheral connections to support embedded firmware development.
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1155b4fa-6265-40bb-9c61-7e30dbf6d3ba" width="700">
