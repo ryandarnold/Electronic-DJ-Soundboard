@@ -24,6 +24,26 @@ I also coordinated with the embedded software lead on GPIO pin assignments, I/O 
 </p>
 
 
-The hardware included: 
+## Hardware: 
 
-
+1. TM4C123GH6PMI microcontroller launchpad (as the main MCU for the project)
+2. Ceramic and Tantalum capacitors (various purposes)
+3. ESP8266 Wifi module (for saving user-made sound clips)
+4. TLV5618ACP DAC (for outputting to the two speakers)
+5. MC34119 audio amplifier (for amplifying the DAC output to the speakers)
+6. ULN2803a transistor array (for powering the LED arrays)
+7. LM4041CILPR shunt voltage reference (required for the TLV DAC)
+8. Resistors (various purposes)
+9. Wire nuts (for connecting the LEDs to the transistor array)
+10. LM2937 3.3 V regulator (for powering different parts of the board)
+11. Testpoints (for verifying that different parts of the board work)
+12. Blue, Red and Yellow LEDs (to light the translucent buttons when pushed)
+13. MC7805ABTG 5V regulator (for powering the LED array)
+14. 8-ohm speakers (for outputting user-made sounds)
+15. Audio jack (so you can choose to use the built-in speakers or attach your own personal speaker for better sound quality)
+16. Pin headers (to connect the launchpad to the board, and to have maximum flexibility in testing prototype)
+17. DC power connector (to power the board)
+18. ST7735R LCD (for displaying info to the user)
+19. Wood enclosure (to store all electronics)
+20. Turn potentiometer (for volume change)
+21. Slide potentiometer (for tone change)
