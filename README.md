@@ -1,5 +1,5 @@
 # Electronic-DJ-Soundboard
-The electronic DJ Soundboard I designed using Eagle. I worked in a team of 4 for this project, but was the team lead on the hardware
+The Electronic DJ Soundboard I designed in Eagle while serving as hardware lead on a 4-person team.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77563db1-35d9-429f-b6cb-36e5cb82a0f5" width="700">
@@ -21,5 +21,6 @@ The electronic DJ Soundboard I designed using Eagle. I worked in a team of 4 for
 </p>
 
 
+The hardware included: 
 
 
