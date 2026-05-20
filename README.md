@@ -26,7 +26,7 @@ I also coordinated with the embedded software lead on GPIO pin assignments, I/O 
 
 ## Hardware: 
 
-1. TM4C123GH6PMI microcontroller launchpad (as the main MCU for the project)
+1. <u>TM4C123GH6PMI microcontroller launchpad</u> (as the main MCU for the project)
 2. Ceramic and Tantalum capacitors (various purposes)
 3. ESP8266 Wifi module (for saving user-made sound clips)
 4. TLV5618ACP DAC (for outputting to the two speakers)
